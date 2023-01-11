@@ -82,7 +82,7 @@ const onSubmit = handleSubmit(async() => {
   console.log({data})
     loading.value = false
     if(data.status && data.code == 0) {
-        router.push({ name: "exchange-rate.index" })
+        router.push({ name: "home" })
         toast.success("Login Success");
     } else {
         toast.error('Wrong password or email')

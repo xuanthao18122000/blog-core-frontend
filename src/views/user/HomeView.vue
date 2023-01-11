@@ -1,7 +1,32 @@
 <template>
   <DashboardLayout>
     <main class="home-wrapper container py-5">
-      This is body
+      <div>
+        <h1 class="mb-5">Code Demo</h1>
+        <div class="p-4 rounded-3 bg-dark shadow mb-4">
+          <div>
+            👉 [DEMO] - Example autocomplete search giống như Sublime Text sử dụng javascript
+          </div>
+          <p>Autocomplete search là một thuật toán rất phức tạp, và đỏi hòi nhiều thuật toán được áp dụng. Nếu bạn đã từng sử dụng Sublime Text để code thì ở đó bạn để ý rằng,
+            đó là một hệ thống tìm kiếm thông minh, khi chúng ta tìm kiếm một vài ký tự thì hệ thống đã gợi ý cho bạn những từ khoá tìm kiếm cụ thể hơn.
+          </p>
+        </div>
+        <div class="p-4 rounded-3 bg-dark shadow mb-4">
+          <div>
+            👉 [DEMO] - Example autocomplete search giống như Sublime Text sử dụng javascript
+          </div>
+          <p>Autocomplete search là một thuật toán rất phức tạp, và đỏi hòi nhiều thuật toán được áp dụng. Nếu bạn đã từng sử dụng Sublime Text để code thì ở đó bạn để ý rằng,
+            đó là một hệ thống tìm kiếm thông minh, khi chúng ta tìm kiếm một vài ký tự thì hệ thống đã gợi ý cho bạn những từ khoá tìm kiếm cụ thể hơn.
+          </p>
+        </div><div class="p-4 rounded-3 bg-dark shadow mb-4">
+          <div>
+            👉 [DEMO] - Example autocomplete search giống như Sublime Text sử dụng javascript
+          </div>
+          <p>Autocomplete search là một thuật toán rất phức tạp, và đỏi hòi nhiều thuật toán được áp dụng. Nếu bạn đã từng sử dụng Sublime Text để code thì ở đó bạn để ý rằng,
+            đó là một hệ thống tìm kiếm thông minh, khi chúng ta tìm kiếm một vài ký tự thì hệ thống đã gợi ý cho bạn những từ khoá tìm kiếm cụ thể hơn.
+          </p>
+        </div>
+      </div>
     </main>
   </DashboardLayout>
 </template>

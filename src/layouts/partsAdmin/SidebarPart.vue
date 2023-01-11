@@ -49,7 +49,7 @@
             <div class="sidebar-footer">
                 <div class="mt-5 mb-3">
                     <DarkSwitch></DarkSwitch>
-                    <a type="button" data-bs-toggle="modal" data-bs-target="#modal-confirm" class="btn btn-secondary d-flex align-items-center justify-content-center py-2"
+                    <a type="button" data-bs-toggle="modal" data-bs-target="#modal-confirm" class="btn btn-secondary d-flex align-items-center justify-content-center py-2 mt-4 "
                         style="border-radius: 0.5rem">
                         <span class="ionicon ionicon-log-out-outline"></span>
                         <span class="ms-2">Logout</span>
